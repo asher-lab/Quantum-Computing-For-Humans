@@ -41,3 +41,6 @@ https://qiskit.org/learn/
 ### Did you know?
 1. You can apply for grants via grants.gov and unitary.fund
 2. Mentorship? https://qosf.org/qc_mentorship/
+
+### Github
+1. https://github.com/desireevl/awesome-quantum-computing
